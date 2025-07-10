@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		88FF68A42E1F655700EB86E4 /* GitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		88FF68E42E1F69AB00EB86E4 /* GitPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		88FF68A62E1F655700EB86E4 /* GitPractice */ = {
+		88FF68E62E1F69AB00EB86E4 /* GitPractice */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = GitPractice;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		88FF68A12E1F655700EB86E4 /* Frameworks */ = {
+		88FF68E12E1F69AB00EB86E4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		88FF689B2E1F655700EB86E4 = {
+		88FF68DB2E1F69AB00EB86E4 = {
 			isa = PBXGroup;
 			children = (
-				88FF68A62E1F655700EB86E4 /* GitPractice */,
-				88FF68A52E1F655700EB86E4 /* Products */,
+				88FF68E62E1F69AB00EB86E4 /* GitPractice */,
+				88FF68E52E1F69AB00EB86E4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		88FF68A52E1F655700EB86E4 /* Products */ = {
+		88FF68E52E1F69AB00EB86E4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				88FF68A42E1F655700EB86E4 /* GitPractice.app */,
+				88FF68E42E1F69AB00EB86E4 /* GitPractice.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		88FF68A32E1F655700EB86E4 /* GitPractice */ = {
+		88FF68E32E1F69AB00EB86E4 /* GitPractice */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 88FF68B12E1F655A00EB86E4 /* Build configuration list for PBXNativeTarget "GitPractice" */;
+			buildConfigurationList = 88FF68EF2E1F69AE00EB86E4 /* Build configuration list for PBXNativeTarget "GitPractice" */;
 			buildPhases = (
-				88FF68A02E1F655700EB86E4 /* Sources */,
-				88FF68A12E1F655700EB86E4 /* Frameworks */,
-				88FF68A22E1F655700EB86E4 /* Resources */,
+				88FF68E02E1F69AB00EB86E4 /* Sources */,
+				88FF68E12E1F69AB00EB86E4 /* Frameworks */,
+				88FF68E22E1F69AB00EB86E4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				88FF68A62E1F655700EB86E4 /* GitPractice */,
+				88FF68E62E1F69AB00EB86E4 /* GitPractice */,
 			);
 			name = GitPractice;
 			packageProductDependencies = (
 			);
 			productName = GitPractice;
-			productReference = 88FF68A42E1F655700EB86E4 /* GitPractice.app */;
+			productReference = 88FF68E42E1F69AB00EB86E4 /* GitPractice.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		88FF689C2E1F655700EB86E4 /* Project object */ = {
+		88FF68DC2E1F69AB00EB86E4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					88FF68A32E1F655700EB86E4 = {
+					88FF68E32E1F69AB00EB86E4 = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 88FF689F2E1F655700EB86E4 /* Build configuration list for PBXProject "GitPractice" */;
+			buildConfigurationList = 88FF68DF2E1F69AB00EB86E4 /* Build configuration list for PBXProject "GitPractice" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 88FF689B2E1F655700EB86E4;
+			mainGroup = 88FF68DB2E1F69AB00EB86E4;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 88FF68A52E1F655700EB86E4 /* Products */;
+			productRefGroup = 88FF68E52E1F69AB00EB86E4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				88FF68A32E1F655700EB86E4 /* GitPractice */,
+				88FF68E32E1F69AB00EB86E4 /* GitPractice */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		88FF68A22E1F655700EB86E4 /* Resources */ = {
+		88FF68E22E1F69AB00EB86E4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		88FF68A02E1F655700EB86E4 /* Sources */ = {
+		88FF68E02E1F69AB00EB86E4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		88FF68AF2E1F655A00EB86E4 /* Debug */ = {
+		88FF68ED2E1F69AE00EB86E4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		88FF68B02E1F655A00EB86E4 /* Release */ = {
+		88FF68EE2E1F69AE00EB86E4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,7 +244,7 @@
 			};
 			name = Release;
 		};
-		88FF68B22E1F655A00EB86E4 /* Debug */ = {
+		88FF68F02E1F69AE00EB86E4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -271,7 +271,7 @@
 			};
 			name = Debug;
 		};
-		88FF68B32E1F655A00EB86E4 /* Release */ = {
+		88FF68F12E1F69AE00EB86E4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -301,25 +301,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		88FF689F2E1F655700EB86E4 /* Build configuration list for PBXProject "GitPractice" */ = {
+		88FF68DF2E1F69AB00EB86E4 /* Build configuration list for PBXProject "GitPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				88FF68AF2E1F655A00EB86E4 /* Debug */,
-				88FF68B02E1F655A00EB86E4 /* Release */,
+				88FF68ED2E1F69AE00EB86E4 /* Debug */,
+				88FF68EE2E1F69AE00EB86E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88FF68B12E1F655A00EB86E4 /* Build configuration list for PBXNativeTarget "GitPractice" */ = {
+		88FF68EF2E1F69AE00EB86E4 /* Build configuration list for PBXNativeTarget "GitPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				88FF68B22E1F655A00EB86E4 /* Debug */,
-				88FF68B32E1F655A00EB86E4 /* Release */,
+				88FF68F02E1F69AE00EB86E4 /* Debug */,
+				88FF68F12E1F69AE00EB86E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 88FF689C2E1F655700EB86E4 /* Project object */;
+	rootObject = 88FF68DC2E1F69AB00EB86E4 /* Project object */;
 }
